@@ -1,0 +1,24 @@
+{
+    "messages": {
+        "Admin_getAll_200": {
+            "en": "Admin",
+            "ru": "",
+            "uz": ""
+        },
+        "User_getAll_200": {
+            "en": "Users",
+            "ru": "",
+            "uz": ""
+        },
+        "Category_getAll_200": {
+            "en": "Category",
+            "ru": "",
+            "uz": ""
+        },
+        "Blog_getAll_200": {
+            "en": "Blog",
+            "ru": "",
+            "uz": ""
+        }
+    }
+}
